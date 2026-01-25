@@ -8,7 +8,7 @@ WIN/ANDROID
 
 <p>
   <img src="Screenshots/example2.png" width="180">
-  <img src="Screenshots/example1.png" width="190">
+  <img src="Screenshots/example1.png" width="180">
   <img src="Screenshots/example2.jpg" width="200">
   <img src="Screenshots/example1.jpg" width="200">
 </p>
