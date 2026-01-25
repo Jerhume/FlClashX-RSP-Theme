@@ -1,13 +1,20 @@
-# FlClashX-RSP-Theme
-FlClashX: Remnawave subscription page theme 
-Theme for the project 
-https://github.com/pluralplay/FlClashX
+# FlClashX: Remnawave subscription page theme 
 
-The theme is inspired by Remnawave subscription page
-https://github.com/remnawave
+Theme for **[FlClashX](https://github.com/pluralplay/FlClashX)**  
+Inspired by **[Remnawave](https://github.com/remnawave)** subscription page
 
-Headers in example 
+examples
+WIN/ANDROID
+
+<p>
+  <img src="Screenshots/example2.png" width="200">
+  <img src="Screenshots/example1.png" width="200">
+  <img src="Screenshots/example2.jpg" width="220">
+  <img src="Screenshots/example1.jpg" width="220">
+</p>
+## Headers example
+
+```yaml
 flclashx-widgets: metainfo,announce,networkDetection,intranetIp,changeServerButton
-
 flclashx-hex: 66d9e8:content
 flclashx-background: link to background.png
